@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+	background: #9FFF02;
+}
+p{
+	background: #9FFF02;
+	font-size: .5em;
+	color: #565;
+}
+.tit{
+	background: #33ffff;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 4px 6px 14px #5718E0;
+	margin: .5em .5em .5em .22em;
+	padding: .5em .5em .5em .5em;
+}
+.subTit{
+	background: #1FFFB9;
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 4px 6px 14px #5718E0;
+	margin: .5em .5em .5em .12em;
+	padding: .5em .5em .5em .5em;
+}
+.subsubTit{
+	background: #1FC8FF;
+	border-radius: 2px 2px 2px 2px;
+	box-shadow: 9px 2px 8px #5718E0;
+	margin: .5em .5em .5em .9em;
+	padding: .5em .5em .5em .5em;
+}
